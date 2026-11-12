@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Yasmin Nassir 👋
 
-<!--
-**Yasmin16474/Yasmin16474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 4th-year **Electrical & Computer Engineering** student focused on building software-driven hardware solutions, IoT systems, signal processing tools, and backend applications.
 
-Here are some ideas to get you started:
+#### 🔧 My core Technical Stack
+- **Programming Languages:** Python, C/C++, Java, MATLAB / Octave
+- **Engineering & Simulation:** LTspice, AutoCAD, TinkerCAD, Digital Signal Processing (DSP)
+- **Focus Areas:** Embedded Systems, IoT, Grid & Circuit Simulation, Algorithmic Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Featured Engineering Projects (In Progress)
+1. **Smart Grid Frequency & Load Anomaly Detector** *(Python, SciPy, DSP)* — Real-time waveform filtering and fault detection engine.
+2. **Bare-Metal RTOS Task Scheduler Simulator** *(C, Embedded Logic)* — Low-level microcontroller interrupt and task state manager.
+3. **IoT Device Telemetry & Fleet Engine** *(Java, OOP, Concurrency)* — High-throughput sensor data routing system.
+
+#### 📫 Connect With Me
+- **GitHub:** [Yasmin16474](https://github.com/Yasmin16474)
+- **Status:** Open to remote engineering, AI training, and technical simulation contracts.
